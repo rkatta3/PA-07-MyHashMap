@@ -1,6 +1,6 @@
 /*
  * Author: Rithvik Katta
- * Course: CSC 210 - Summer 2025
+ * Course: CSC 210
  * File: MyHashMap.java
  * Purpose: This program implements a generic hash map using chaining with linked lists.
  * It supports basic map operations like put, get, remove, keySet, and printTable.
@@ -210,3 +210,4 @@ public class MyHashMap<K, V> {
         System.out.println("Total # of conflicts: " + totalConflicts);
     }
 }
+
