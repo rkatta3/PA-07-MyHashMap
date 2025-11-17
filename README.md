@@ -104,7 +104,7 @@ Note: All methods except `printTable()` follow standard Java HashMap behavior.
 - Academic integrity
 
 ## Submission
-Submit `MyHashMap.java` to Gradescope by Thursday, November 13, 2025 at 11:30pm.
+Submit `MyHashMap.java` to Gradescope.
 
 **Note**: No package declaration for this assignment.
 
